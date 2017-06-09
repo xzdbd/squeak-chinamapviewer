@@ -1,0 +1,8 @@
+*.exe
+*.test
+*.prof
+
+squeak-chinamapviewer
+!static/js/squeak
+
+conf/app.conf

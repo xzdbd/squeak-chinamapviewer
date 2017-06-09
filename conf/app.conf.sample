@@ -1,0 +1,4 @@
+appname = squeak-buxinwater
+httpport = 8101
+runmode = dev
+spatialdbconnection = ""
